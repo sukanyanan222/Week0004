@@ -12,6 +12,9 @@ namespace Week0004
         {
             Console.Write("Hello");
             Console.Write("Hello");
+
+
+
         }
     }
 }
