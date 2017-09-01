@@ -10,8 +10,7 @@ namespace Week0004
     {
         static void Main(string[] args)
         {
-            Console.Write("Hello");
-           
+            Console.WriteLine("{1}, {0} and {1}", 3, 6);
         }
     }
 }
