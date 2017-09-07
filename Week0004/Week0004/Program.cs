@@ -12,6 +12,7 @@ namespace Week0004
             Console.WriteLine("Your key is: " + ch);
 
 
+
         }
     }
 }
