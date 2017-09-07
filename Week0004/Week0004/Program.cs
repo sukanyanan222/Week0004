@@ -10,8 +10,12 @@ namespace Week0004
     {
         static void Main(string[] args)
         {
-            Console.Write("Hello");
-           
+            string str;
+            Console.Write("Enter some characters.");
+            str = Console.Read();
+            Console.WriteLine("You entered: " + str);
+
+
         }
     }
 }
